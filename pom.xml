@@ -3,11 +3,12 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	
-	<groupId>com.eptok.yspos</groupId>
+	<groupId>com.boys.public</groupId>
 	<artifactId>boys_public</artifactId>
 	<packaging>jar</packaging>
 	<name>boys_public</name>
 	<url>http://maven.apache.org</url>
+	<version>1.0-SNAPSHOT</version>
 	
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -57,6 +58,7 @@
 
 	</build>
 		<dependencies>
+			
 			<dependency>
 	        	<groupId>org.apache.poi</groupId>
 	        	<artifactId>poi</artifactId>
